@@ -1,0 +1,23 @@
+# Environment files
+.env
+backend/.env
+Bazaar_Apps/.env
+
+# Node modules
+node_modules/
+backend/node_modules/
+Bazaar_Apps/node_modules/
+
+# Expo & React Native
+.expo/
+.expo-shared/
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
+# VSCode
+.vscode/
